@@ -7,4 +7,4 @@ Ad-hoc notes from talk
 
 TODO: implement
 ---------------
-There's nothing here yet. Demo code and slides to be uploaded after I sanitize them (within two weeks--by Monday, August 24th, 2015).
+There's nothing here yet. Demo code and slides to be uploaded after I sanitize them.
